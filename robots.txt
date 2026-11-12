@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sy1ahtools.pages.dev/sitemap.xml
